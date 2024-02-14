@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Plugin
+ * Plugin Name: Footer Hello
  */
 
 function my_content_footer( $content ) {
