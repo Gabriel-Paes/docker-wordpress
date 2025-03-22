@@ -5,3 +5,11 @@ plugins/akismet
 plugins/hello.php
 
 plugins/index.php
+
+# themes ignored
+
+themes/twentytwentyfive
+
+themes/twentytwentyfour
+
+themes/twentytwentythree
